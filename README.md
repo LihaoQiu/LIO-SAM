@@ -262,6 +262,9 @@ Part of the code is adapted from [LeGO-LOAM](https://github.com/RobustFieldAuton
 
   - [ ] [Bug within imuPreintegration](https://github.com/TixiaoShan/LIO-SAM/issues/104)
 
+## Lihao added
+See changes in param.yaml regarding configuration for OS1-128 Lidar. See updated scripts where IMU conversion is no longer needed. Both Lidar and IMU works in the same coordinates.
+
 ## Related Package
 
   - [liorf](https://github.com/YJZLuckyBoy/liorf) LIO-SAM with 6-axis IMU and more lidar support.
